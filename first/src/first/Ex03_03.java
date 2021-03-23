@@ -6,6 +6,7 @@ public class Ex03_03 {
 		// TODO Auto-generated method stub
 		System.out.println(100+"/"+ 200+"="+0.5);
 		System.out.println("\n");
+		System.out.println("hello");
 	}
 
 }
